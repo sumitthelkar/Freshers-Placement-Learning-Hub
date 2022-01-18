@@ -56,7 +56,12 @@ transition: .5s;
     }
 }
 
-
+.section{
+    background-color: #c51c1c;
+    text-align: center;
+    size: 100px;
+    padding: 30%;
+}
 .section-info
 {
     background-color: #0082e6;
