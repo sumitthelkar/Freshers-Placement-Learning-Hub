@@ -1,0 +1,9 @@
+{
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "git.fetchOnPull": true,
+    "git.openAfterClone": "always",
+    "git.showUnpublishedCommitsButton": "always",
+    "github-enterprise.uri": "https://sumitthelkar.github.io/Freshers-Placement-Learning-Hub/index.html",
+    "git.allowForcePush": true
+}
